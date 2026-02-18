@@ -1,4 +1,5 @@
-# 📺 Amazon Prime Video Analytics Dashboard (Power BI Business Intelligence Project)
+# 📺 Amazon Prime Video Analytics Dashboard 
+# (Power BI Business Intelligence Project)
 
 ---
 
@@ -68,19 +69,19 @@ The dashboard includes:
 ## 📷 Dashboard Preview
 
 ### 🏠 Main Overview Dashboard
-![Overview](SS/Full_dash.png)
+![Overview](SS/Full_dash.jpg)
 
 ### 🎬 Content Type Distribution
-![Content Type](SS/Filter.png)
+![Content Type](SS/Filter.jpg)
 
 ### 🎭 Genre Analysis
-![Genre](SS/Fav_Genera.png)
+![Genre](SS/Fav_Genera.jpg)
 
 ### 📅 Payment Chart
-![Release Year](SS/Payment_detils.png)
+![Release Year](SS/Payment_detils.jpg)
 
 ### 🔞 Payment Chart Category
-![Rating](SS/Payment_detils_Filter.png)
+![Rating](SS/Payment_detils_Filter.jpg)
 
 ---
 
