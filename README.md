@@ -1,177 +1,156 @@
-📺 Amazon Prime Video Analytics Dashboard (Power BI Business Intelligence Project)
-🔷 Project Summary
+# 📺 Amazon Prime Video Analytics Dashboard (Power BI Business Intelligence Project)
 
-This project presents an interactive Amazon Prime Video Analytics Dashboard built using Microsoft Power BI.
-The objective of this analysis is to transform raw streaming platform data into actionable business insights that help understand content performance, audience distribution, and platform growth trends.
+---
+
+## 🔷 Project Summary
+
+This project presents an interactive **Amazon Prime Video Analytics Dashboard** built using **Microsoft Power BI**.  
+The objective of this analysis is to transform raw streaming platform data into actionable business insights that help understand **content performance, audience distribution, and platform growth trends**.
 
 The dashboard allows stakeholders to quickly evaluate how content is distributed across genres, countries, release years, and audience ratings — helping streaming platforms make smarter content acquisition and production decisions.
 
 This project simulates how a Data Analyst in an OTT company (like Amazon Prime Video / Netflix / Hotstar) would analyze platform content data and present it to business teams.
 
-🎯 Business Problem
+---
 
-Streaming platforms host thousands of movies and TV shows.
+## 🎯 Business Problem
+
+Streaming platforms host thousands of movies and TV shows.  
 Without analysis, it becomes difficult to answer critical questions such as:
 
-What type of content dominates the platform?
-
-Which countries produce the most content?
-
-Is the platform movie-focused or series-focused?
-
-How has content growth changed over time?
-
-Which age-rating categories are most common?
-
-What genres should the platform invest in?
+- What type of content dominates the platform?
+- Which countries produce the most content?
+- Is the platform movie-focused or series-focused?
+- How has content growth changed over time?
+- Which age-rating categories are most common?
+- What genres should the platform invest in?
 
 This dashboard converts raw catalog data into a visual decision-making tool for executives and product managers.
 
-🧠 Business Use Case
+---
+
+## 🧠 Business Use Case
 
 This analysis can help a streaming company:
 
-Decide which genres to produce next
+- Decide which genres to produce next
+- Identify underrepresented markets
+- Understand audience targeting
+- Optimize content acquisition strategy
+- Evaluate platform expansion opportunities
 
-Identify underrepresented markets
+---
 
-Understand audience targeting
+## 🛠 Tools & Technologies Used
 
-Optimize content acquisition strategy
+- Microsoft Power BI Desktop
+- Power Query – Data cleaning & transformation
+- DAX (Data Analysis Expressions) – KPI & calculated measures
+- Data Modeling – Relationships & schema design
+- Interactive Visualization – Slicers & filters
 
-Evaluate platform expansion opportunities
+---
 
-🛠 Tools & Technologies Used
-
-Microsoft Power BI Desktop
-
-Power Query – Data cleaning & transformation
-
-DAX (Data Analysis Expressions) – KPI & calculated measures
-
-Data Modeling – Relationships & schema design
-
-Interactive Visualization – Slicers & filters
-
-📊 Dashboard Features
+## 📊 Dashboard Features
 
 The dashboard includes:
 
-Content distribution by type (Movies vs TV Shows)
+- Content distribution by type (Movies vs TV Shows)
+- Genre analysis
+- Country-wise content production
+- Release year trends
+- Rating category analysis
+- Interactive filters and slicers
+- Dynamic visuals and KPI cards
 
-Genre analysis
+---
 
-Country-wise content production
+## 📷 Dashboard Preview
 
-Release year trends
+### 🏠 Main Overview Dashboard
+![Overview](SS/Full_dash.png)
 
-Rating category analysis
+### 🎬 Content Type Distribution
+![Content Type](SS/Filter.png)
 
-Interactive filters and slicers
+### 🎭 Genre Analysis
+![Genre](SS/Fav_Genera.png)
 
-Dynamic visuals and KPI cards
+### 📅 Payment Chart
+![Release Year](SS/Payment_detils.png)
 
-📷 Dashboard Preview
+### 🔞 Payment Chart Category
+![Rating](SS/Payment_detils_Filter.png)
 
-(Your screenshots folder is already added — these links will display images on GitHub)
+---
 
-Main Overview Dashboard
+## 📈 Key Insights Extracted
 
-Content Type Distribution
+- Movies dominate the platform catalog compared to TV shows
+- Content production increased significantly after 2010
+- Certain countries contribute majority of the platform’s content
+- Drama and Documentary genres appear most frequently
+- Most content falls under general audience and teen categories
+- Platform expansion accelerated in recent years
 
-Country Distribution
+---
 
-Genre Analysis
-
-Release Year Trend
-
-Rating Category Analysis
-
-📈 Key Insights Extracted
-
-Movies dominate the platform catalog compared to TV shows
-
-Content production increased significantly after 2010
-
-Certain countries contribute majority of the platform’s content
-
-Drama and Documentary genres appear most frequently
-
-Most content falls under general audience and teen categories
-
-Platform expansion accelerated in recent years
-
-📂 Dataset Information
+## 📂 Dataset Information
 
 The dataset contains information about Amazon Prime Video titles, including:
 
-Title Name
+- Title Name
+- Content Type (Movie / TV Show)
+- Genre
+- Country
+- Release Year
+- Duration
+- Age Rating
+- Cast & Directors
 
-Content Type (Movie / TV Show)
+The dataset is used for **educational and portfolio demonstration purposes only**.
 
-Genre
+---
 
-Country
+## 🔄 Data Processing Steps
 
-Release Year
+- Imported dataset into Power BI
+- Cleaned null and inconsistent values using Power Query
+- Standardized country and genre fields
+- Created relationships and data model
+- Built calculated columns & DAX measures
+- Designed interactive dashboard visuals
+- Applied slicers and filters for user interaction
 
-Duration
+---
 
-Age Rating
+## 💡 Skills Demonstrated
 
-Cast & Directors
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- Dashboard Design
+- Business Insight Extraction
+- Storytelling with Data
 
-The dataset is used for educational and portfolio demonstration purposes only.
+---
 
-🔄 Data Processing Steps
+## 🚀 How to Use the Project
 
-Imported dataset into Power BI
+1. Download the `.pbix` file from this repository
+2. Open using Microsoft Power BI Desktop
+3. Interact with filters and slicers
+4. Explore different business questions using visuals
 
-Cleaned null and inconsistent values using Power Query
+---
 
-Standardized country and genre fields
+## 👨‍💻 Author
 
-Created relationships and data model
+**Rupesh Desai**  
+Aspiring Data Analyst  
 
-Built calculated columns & DAX measures
+**Skills:** SQL | Power BI | Excel | Python | Data Analysis | Data Visualization  
 
-Designed interactive dashboard visuals
-
-Applied slicers and filters for user interaction
-
-💡 Skills Demonstrated
-
-Data Cleaning
-
-Data Transformation
-
-Data Modeling
-
-DAX Calculations
-
-Dashboard Design
-
-Business Insight Extraction
-
-Storytelling with Data
-
-🚀 How to Use the Project
-
-Download the .pbix file from this repository
-
-Open using Microsoft Power BI Desktop
-
-Interact with filters and slicers
-
-Explore different business questions using visuals
-
-👨‍💻 Author
-
-Rupesh Desai
-Aspiring Data Analyst
-
-Skills: SQL | Power BI | Excel | Python | Data Analysis | Data Visualization
-
-📧 Email: rupeshdesaiwork@gmail.com
-
+📧 Email: rupeshdesaiwork@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/rupeshdesai2010/
